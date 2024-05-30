@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DBQuizGame_Service", "02_DBQuizGame_Service\02_DBQuizGame_Service.csproj", "{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_DBQuizGame_Persistence", "..\01_DBQuizGame_Persistence\01_DBQuizGame_Persistence\01_DBQuizGame_Persistence.csproj", "{870D0F30-6151-4288-9131-0C4F41D0B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870D0F30-6151-4288-9131-0C4F41D0B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870D0F30-6151-4288-9131-0C4F41D0B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870D0F30-6151-4288-9131-0C4F41D0B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870D0F30-6151-4288-9131-0C4F41D0B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F86114-05AF-4557-B5F7-7EEF3DEAEB92}
+	EndGlobalSection
+EndGlobal

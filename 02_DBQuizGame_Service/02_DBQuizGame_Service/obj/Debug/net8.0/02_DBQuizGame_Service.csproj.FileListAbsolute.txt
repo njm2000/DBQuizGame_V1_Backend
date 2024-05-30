@@ -1,0 +1,16 @@
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\01_DBQuizGame_Persistence.staticwebassets.runtime.json
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\02_DBQuizGame_Service.deps.json
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\02_DBQuizGame_Service.dll
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\02_DBQuizGame_Service.pdb
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\01_DBQuizGame_Persistence.dll
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\bin\Debug\net8.0\01_DBQuizGame_Persistence.pdb
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.csproj.AssemblyReference.cache
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.AssemblyInfoInputs.cache
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.AssemblyInfo.cs
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.csproj.CoreCompileInputs.cache
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQui.37FA9D33.Up2Date
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.dll
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\refint\02_DBQuizGame_Service.dll
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\02_DBQuizGame_Service.pdb
+C:\Users\neohj\source\repos\02_DBQuizGame_Service\02_DBQuizGame_Service\obj\Debug\net8.0\ref\02_DBQuizGame_Service.dll

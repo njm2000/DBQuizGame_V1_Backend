@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|c:\\users\\neohj\\source\\repos\\02_dbquizgame_service\\02_dbquizgame_service\\response\\validateplayerloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|solutionrelative:02_dbquizgame_service\\response\\validateplayerloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|c:\\users\\neohj\\source\\repos\\02_dbquizgame_service\\02_dbquizgame_service\\iservice\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|solutionrelative:02_dbquizgame_service\\iservice\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|c:\\users\\neohj\\source\\repos\\02_dbquizgame_service\\02_dbquizgame_service\\dto\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|solutionrelative:02_dbquizgame_service\\dto\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|c:\\users\\neohj\\source\\repos\\02_dbquizgame_service\\02_dbquizgame_service\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|solutionrelative:02_dbquizgame_service\\service\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|c:\\users\\neohj\\source\\repos\\02_dbquizgame_service\\02_dbquizgame_service\\iservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887E433D-4FAB-4ADD-8DE2-62C0B71E30CD}|02_DBQuizGame_Service\\02_DBQuizGame_Service.csproj|solutionrelative:02_dbquizgame_service\\iservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidatePlayerLoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\Response\\ValidatePlayerLoginResponse.cs",
+              "RelativeDocumentMoniker": "02_DBQuizGame_Service\\Response\\ValidatePlayerLoginResponse.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\Response\\ValidatePlayerLoginResponse.cs",
+              "RelativeToolTip": "02_DBQuizGame_Service\\Response\\ValidatePlayerLoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:35:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\IService\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "02_DBQuizGame_Service\\IService\\IPlayerService.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\IService\\IPlayerService.cs",
+              "RelativeToolTip": "02_DBQuizGame_Service\\IService\\IPlayerService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:30:53.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\DTO\\Player.cs",
+              "RelativeDocumentMoniker": "02_DBQuizGame_Service\\DTO\\Player.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\DTO\\Player.cs",
+              "RelativeToolTip": "02_DBQuizGame_Service\\DTO\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:17:06.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\IService\\IAdminService.cs",
+              "RelativeDocumentMoniker": "02_DBQuizGame_Service\\IService\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\IService\\IAdminService.cs",
+              "RelativeToolTip": "02_DBQuizGame_Service\\IService\\IAdminService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:27:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\Service\\AdminService.cs",
+              "RelativeDocumentMoniker": "02_DBQuizGame_Service\\Service\\AdminService.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\02_DBQuizGame_Service\\02_DBQuizGame_Service\\Service\\AdminService.cs",
+              "RelativeToolTip": "02_DBQuizGame_Service\\Service\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:37:46.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
