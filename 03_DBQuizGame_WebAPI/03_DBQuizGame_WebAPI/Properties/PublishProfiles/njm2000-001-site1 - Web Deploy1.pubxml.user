@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACVWGKiWQc0ukdYZbI+j4oQAAAAACAAAAAAAQZgAAAAEAACAAAAAcgpgePKLV53LW/lBm5x2e/yPM0sqJhoTenVH4B1r/6wAAAAAOgAAAAAIAACAAAABkAY4YbjqoKItlTNDVNTQJF76e+AHLh4U6Aph1mudOUSAAAADKDAita7V6sEMbWK6UgX+fSoJ9GYXGMbsRwMFZN1KuXUAAAABjYDPiPCOeAqLqO/EAb7Un2yANr6guuJ/4Sr6g5Eo81Db5PIrm84dDA2ra2ZYWeoNrFetac/a3xoIfT+itFfpB</EncryptedPassword>
+    <History>True|2024-05-19T21:20:49.7593694Z;True|2024-05-20T05:03:48.1079374+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DatabaseConnection">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa8ec1_dbquizgamedatabase%3bUser Id=db_aa8ec1_dbquizgamedatabase_admin%3bPassword=happy123%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

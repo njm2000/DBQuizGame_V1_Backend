@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACVWGKiWQc0ukdYZbI+j4oQAAAAACAAAAAAAQZgAAAAEAACAAAACQc0aH7ZYBf/CBDB+P5vcalwXtb5YLd7rpNa10w2VMuQAAAAAOgAAAAAIAACAAAADDY/03QO0NaevjVxajsvsArzZe72WAk++s2spdOOtwOyAAAADqn7dt9GwG2kQgs7p7Z1ONREnBJAo+KsHer6pmGiBc6UAAAABysFsc9KglzixrKQfs5CoszTnAgmsYJo3sBaPN3KQ3UVl0L0iDvOAbHmEc72ogxui/P+2cMPisej5oMbMo7hj8</EncryptedPassword>
+    <History>True|2024-05-23T14:32:04.1395334Z;True|2024-05-23T22:28:55.1617723+08:00;True|2024-05-23T22:12:12.0746755+08:00;True|2024-05-22T00:09:22.3757048+08:00;True|2024-05-21T21:31:21.5425817+08:00;True|2024-05-21T20:45:59.7956865+08:00;True|2024-05-20T23:20:46.7052082+08:00;True|2024-05-20T13:03:54.7870623+08:00;True|2024-05-20T12:05:00.4984878+08:00;True|2024-05-20T11:37:57.7519640+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DatabaseConnection">
+      <Value>Data Source=SQL8010.site4now.net%3bInitial Catalog=db_aa8ec1_dbquizgamedatabase%3bUser Id=db_aa8ec1_dbquizgamedatabase_admin%3bPassword=happy123%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
