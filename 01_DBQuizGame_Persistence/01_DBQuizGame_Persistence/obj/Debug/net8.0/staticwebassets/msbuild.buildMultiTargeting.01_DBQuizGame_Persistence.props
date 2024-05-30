@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\01_DBQuizGame_Persistence.props" />
+</Project>

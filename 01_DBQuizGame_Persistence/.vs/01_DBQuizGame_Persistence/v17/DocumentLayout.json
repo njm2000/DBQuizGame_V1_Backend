@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\migrations\\20240519183512_dbquizgame_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\migrations\\20240519183512_dbquizgame_initialdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entity\\dbquizgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entity\\dbquizgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entityconfiguration\\certificateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entityconfiguration\\certificateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entity\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entity\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entity\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entity\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entityconfiguration\\playerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entityconfiguration\\playerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|c:\\users\\neohj\\source\\repos\\01_dbquizgame_persistence\\01_dbquizgame_persistence\\entity\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2762F09-CC3F-4F46-A280-40CE9388D301}|01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence.csproj|solutionrelative:01_dbquizgame_persistence\\entity\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240519183512_DBQuizGame_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Migrations\\20240519183512_DBQuizGame_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Migrations\\20240519183512_DBQuizGame_InitialDatabase.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Migrations\\20240519183512_DBQuizGame_InitialDatabase.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Migrations\\20240519183512_DBQuizGame_InitialDatabase.cs",
+              "ViewState": "AQIAAM4BAAAAAAAAAAAcwOkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:00:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CertificateConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\EntityConfiguration\\CertificateConfiguration.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\EntityConfiguration\\CertificateConfiguration.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\EntityConfiguration\\CertificateConfiguration.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\EntityConfiguration\\CertificateConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:08:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Certificate.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Entity\\Certificate.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Certificate.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Entity\\Certificate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:08:46.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBQuizGameContext.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\DBQuizGameContext.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Entity\\DBQuizGameContext.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\DBQuizGameContext.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Entity\\DBQuizGameContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:47:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\EntityConfiguration\\PlayerConfiguration.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\EntityConfiguration\\PlayerConfiguration.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\EntityConfiguration\\PlayerConfiguration.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\EntityConfiguration\\PlayerConfiguration.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:42:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Player.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Entity\\Player.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Player.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Entity\\Player.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:26:24.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Admin.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Entity\\Admin.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Admin.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Entity\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:25:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Option.cs",
+              "RelativeDocumentMoniker": "01_DBQuizGame_Persistence\\Entity\\Option.cs",
+              "ToolTip": "C:\\Users\\neohj\\source\\repos\\01_DBQuizGame_Persistence\\01_DBQuizGame_Persistence\\Entity\\Option.cs",
+              "RelativeToolTip": "01_DBQuizGame_Persistence\\Entity\\Option.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:16:33.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
